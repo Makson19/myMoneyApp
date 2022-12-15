@@ -1,5 +1,6 @@
 // Renomear para .env
 
 module.exports = {
-    authSecret: ''
+    authSecret: '',
+    url: 'cole aqui a url do seu banco de dados...'
 }
